@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background-color: #$1; /*Fallback Color*/
+background-image: url(gradiant-image.png); /* fallback image */
+background-image: -moz-linear-gradient(top, #${1:CCC}, #${2:999}); /* FF3.6 */
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #$1),color-stop(1, #$2)); /* Saf4+, Chrome */
+background-image: -webkit-linear-gradient(#$1, #$2); /* Chrome 10+, Saf6 */
+background-image: linear-gradient(top, #$1, #$2);</string>
+	<key>name</key>
+	<string>Gradiant</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>gradiant</string>
+	<key>uuid</key>
+	<string>310637AB-3CDD-4990-85C7-9A2CDDD9B50A</string>
+</dict>
+</plist>

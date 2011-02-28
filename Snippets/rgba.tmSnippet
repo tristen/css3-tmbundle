@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background-color: rgb(${1:0}, ${2:0}, ${3:0}, .${4:25});
+background-color: rgba($1, $2, $3, .$4);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='${5:000000}$4',EndColorStr='$5$4');</string>
+	<key>name</key>
+	<string>rgba</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>rgba</string>
+	<key>uuid</key>
+	<string>429E2735-DA34-472E-9D57-9DB230124F87</string>
+</dict>
+</plist>
