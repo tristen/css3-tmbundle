@@ -11,30 +11,25 @@ Usage is simple: From the list of snippets below, enter the name followed by the
 
 __Note__ In some cases you may find more than one option for convenience:  
   
-![Snippet Options](http://cl.ly/3r3L2b3T3V1L1F3n2B15/screenshot.png)
+![Snippet Options](http://f.cl.ly/items/320C403N2Q210i2Y3z1L/screenshot.png)
 
 ###Snippet List:
 
 *  __border-radius:__ round &#8594;|  
-  
 *  __box-shadow,__  
 __box-shadow:inset,__  
 __text-shadow:__ shadow &#8594;|
-
 *  __gradiant__: gradiant &#8594;|
-
 *  __rgba__: rgba &#8594;|
-
 *  __rotate__: rotate &#8594;|
-
 * __transition__: transition &#8594;|
-
 * __font-face__: fontface &#8594;|
 
 ###Installation
 
     $ cd ~/Library/"Application Support"/TextMate/Bundles
     $ git clone git://github.com/tristen/css3-tmbundle.git "css3.tmbundle"
+    $ osascript -e 'tell app "TextMate" to reload bundles'
     
 ###TODO's
 *  Add 'stops' options to gradiants
