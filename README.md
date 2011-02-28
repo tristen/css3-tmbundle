@@ -14,15 +14,13 @@ __Note__ In some cases you may find more than one option for convenience:
 
 ###Snippet List:
 
-*  __border-radius:__ round &#8594;|  
-*  __box-shadow,__  
-__box-shadow:inset,__  
-__text-shadow:__ shadow &#8594;|
-*  __gradiant__: gradiant &#8594;|
-*  __rgba__: rgba &#8594;|
-*  __rotate__: rotate &#8594;|
-* __transition__: transition &#8594;|
-* __font-face__: fontface &#8594;|
+*  __round &#8594;|__ border-radius(s)
+* __shadow &#8594;|__ text-shadow, box-shadow:inset, box-shadow
+* __gradiant &#8594;|__: gradiant
+* __rgba &#8594;|__: rgba
+* __rotate &#8594;|__: rotate
+* __transition &#8594;|__: transition
+* __fontface &#8594;|__: $font-face
 
 ###Installation
 
@@ -30,6 +28,6 @@ __text-shadow:__ shadow &#8594;|
     $ git clone git://github.com/tristen/css3-tmbundle.git "css3.tmbundle"
     $ osascript -e 'tell app "TextMate" to reload bundles'
     
-###TODO's
+###TODOs
 *  Add 'stops' options to gradiants
 *  [2D and 3D Animation support](http://css3.bradshawenterprises.com/)
