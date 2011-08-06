@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>text-shadow: ${1:5}px ${2:5}px ${3:5}px #${4:ccc};</string>
+	<string>text-shadow: ${1:5px} ${2:5px} ${3:5px} ${4:#ccc};</string>
 	<key>name</key>
 	<string>Text shadow</string>
 	<key>scope</key>

@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius: ${1:10}px ${2:10}px ${3:10}px ${4:10}px;
--webkit-border-radius: $1px $2px $3px $4px;
-border-radius: $1px $2px $3px $4px;
+	<string>-moz-border-radius: ${1:0} ${2:0} ${3:0} ${4:0};
+-webkit-border-radius: $1 $2 $3 $4;
+border-radius: $1 $2 $3 $4;
 </string>
 	<key>name</key>
-	<string>Round each</string>
+	<string>Radius each</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>round</string>
+	<string>radius</string>
 	<key>uuid</key>
 	<string>D742BD81-BC13-49A6-94FD-B24B7386E6CE</string>
 </dict>

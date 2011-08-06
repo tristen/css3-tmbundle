@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>@font-face {
   font-family: '${1:helvetica,arial,freesans,clean,sans-serif;}'; /* Fallback */
-  src: url('${2:fontname}.eot?') format('eot'),  /* IE6–8 */
-       url('$2.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+ */
-       url('$2.ttf') format('truetype');  /* Saf3+, Chrome4+, FF3.5, Opera 10+ */
+  src: url('${2:fontname}.eot?') format('eot'),
+       url('$2.woff') format('woff'),
+       url('$2.ttf') format('truetype');
 }</string>
 	<key>name</key>
 	<string>@font-face</string>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-transition: all ${1:0.3}s ${2:ease-out};  /* FF4+ */
--o-transition: all $1s $2;  /* Opera 10.5+ */
--webkit-transition: all $1s $2;  /* Saf3.2+, Chrome */
+	<string>-moz-transition: all ${1:0.3}s ${2:ease-out};
+-o-transition: all $1s $2;
+-webkit-transition: all $1s $2;
 transition: all $1s $2;</string>
 	<key>name</key>
 	<string>Transition</string>

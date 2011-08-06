@@ -3,17 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-box-shadow:inset ${1:5px} ${2:5px} ${3:5px} ${4:#ccc};
--webkit-box-shadow:inset $1 $2 $3 $4;
-box-shadow:inset $1 $2 $3px $4;
-</string>
+	<string>white-space: pre-wrap;
+white-space: -moz-pre-wrap;
+white-space: -pre-wrap;
+white-space: -o-pre-wrap;
+word-wrap: break-word;</string>
 	<key>name</key>
-	<string>Box shadow inset</string>
+	<string>Word Wrap</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>shadow</string>
+	<string>wrap</string>
 	<key>uuid</key>
-	<string>F268C451-C50F-4655-9905-0E24C4AC15F8</string>
+	<string>78AC485B-57C6-45E8-A3ED-2E0C92EB9879</string>
 </dict>
 </plist>
