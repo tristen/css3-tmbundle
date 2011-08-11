@@ -9,13 +9,14 @@ having to google search every time.
 
 ###Snippets:
 
-*  __round &#8594;|__ border-radius(s)
+*  __radius &#8594;|__ border-radius(s)
 * __shadow &#8594;|__ text-shadow, box-shadow:inset, box-shadow
 * __gradiant &#8594;|__: gradiant
 * __rgba &#8594;|__: rgba
 * __rotate &#8594;|__: rotate
 * __transition &#8594;|__: transition
-* __fontface &#8594;|__: $font-face
+* __fontface &#8594;|__: @font-face
+* __wrap &#8594;|__: break-word
 
 ###Usage 
 From the list of snippets above, enter the name followed by the tab key.
